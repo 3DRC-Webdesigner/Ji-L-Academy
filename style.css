@@ -610,6 +610,30 @@ header #menu{
         width: auto;
     }
 
+.video-container {
+  max-width: 200px; /* Example max width for the container */
+  margin: 0 auto; /* Center the container */
+}
+
+@media screen and (max-width: 767px) {
+  .video-container {
+    max-width: 100%; /* Container takes full width on mobile */
+  }
+}
+
+.video-container video {
+  width: 100%; /* Video fills its container */
+  height: auto;
+}
+
+
+@media screen and (max-width: 480px) {
+    img {
+         width: 400px;
+    }
+
+
+
     .Regristration p{
         width:auto;
     }
@@ -620,7 +644,7 @@ header #menu{
 
 }
 
-@media (max-width:500px){
+@media (max-width:400px){
 
     html{
         font-size: 50%;

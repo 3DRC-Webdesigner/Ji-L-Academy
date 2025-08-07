@@ -636,7 +636,7 @@ header #menu{
 @media (max-width:400px){
 
     html{
-        font-size: 50%;
+        font-size: 100%;
     }
 
     .contact .row form .box{
@@ -648,6 +648,7 @@ header #menu{
     }
 
 }
+
 
 
 

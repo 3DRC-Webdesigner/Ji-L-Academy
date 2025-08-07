@@ -556,7 +556,7 @@ header #menu{
 
 /* media queries  */
 
-@media (max-width:764px){
+@media (max-width:980px){
 
     html{
         font-size: 100%;
@@ -648,6 +648,7 @@ header #menu{
     }
 
 }
+
 
 
 

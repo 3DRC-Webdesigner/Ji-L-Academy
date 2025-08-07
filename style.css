@@ -610,17 +610,6 @@ header #menu{
         width: auto;
     }
 
-.video-container {
-  max-width: 100px; 
-  margin: 0 auto; 
-}
-
-@media screen and (max-width: 480px) {
-  .video-container {
-    max-width: 100%; 
-  }
-}
-
 .video-container video {
   width: 100%; 
   height: auto;
@@ -659,6 +648,7 @@ header #menu{
     }
 
 }
+
 
 
 

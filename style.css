@@ -611,7 +611,7 @@ header #menu{
     }
 
 .video-container video {
-  width: 100%; 
+  width: 400px; 
   height: auto;
 }
 
@@ -648,6 +648,7 @@ header #menu{
     }
 
 }
+
 
 
 

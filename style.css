@@ -633,10 +633,10 @@ header #menu{
 
 }
 
-@media (max-width:980px){
+@media (max-width:1000px){
 
     html{
-        font-size: 100%;
+        font-size: 50%;
     }
 
     .contact .row form .box{
@@ -648,6 +648,7 @@ header #menu{
     }
 
 }
+
 
 
 

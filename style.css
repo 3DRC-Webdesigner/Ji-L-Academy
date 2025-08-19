@@ -621,7 +621,9 @@ header #menu{
          width: 400px;
     }
 
-
+.course .box-container h1{
+		width: 400px;
+	}
 
     .Regristration p{
         width:auto;
@@ -648,6 +650,7 @@ header #menu{
     }
 
 }
+
 
 
 
